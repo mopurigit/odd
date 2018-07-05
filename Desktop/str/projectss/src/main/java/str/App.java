@@ -1,4 +1,4 @@
-package chandra;
+package str;
 
 /**
  * Hello world!
